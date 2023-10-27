@@ -8,3 +8,4 @@ The feature representation of sequence based on non-negative matrix factorizatio
 > 5.Gm-DPC: m groups-dipeptide composition.  
 > 6.Gm-TPC: m groups-tripetide composition.  
 |Grouping name|grouping|
+|...|...|
