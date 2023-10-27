@@ -6,7 +6,8 @@ The feature representation of sequence based on non-negative matrix factorizatio
 > 3.readfasta: Read the fasta file.  
 > 4.Gm-AAC: m groups-amino acid composition.  
 > 5.Gm-DPC: m groups-dipeptide composition.  
-> 6.Gm-TPC: m groups-tripetide composition.  
+> 6.Gm-TPC: m groups-tripetide composition.
+# 
 | grouping name | grouping |
 | ------------- | -------- |
 | GAA-NMF(8) |  A,E |
